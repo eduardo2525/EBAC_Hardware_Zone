@@ -316,11 +316,12 @@ footer {
         height: 16vh;
         background-color: rgb(19, 19, 165);
     }
-    .informacao_produto {
+    .informacao_produto, .footer_produto {
         width: 100%;
         position: relative;
         left: 5px;
     }
+    .
     .redes_sociais {
         padding: 10px;
     }
