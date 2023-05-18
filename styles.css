@@ -7,7 +7,6 @@
 body {
     background: rgb(212, 200, 200);
 }
-
 .container {
     max-width: 1280px;
     margin: auto;
@@ -37,6 +36,7 @@ header > .container {
     font-family: 'IBM', sans-serif;
     position: relative;
     right: 0px;
+    
 }
 
 .container > li, a {
@@ -321,7 +321,6 @@ footer {
         position: relative;
         left: 5px;
     }
-    .
     .redes_sociais {
         padding: 10px;
     }
